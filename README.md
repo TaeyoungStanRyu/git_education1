@@ -1,2 +1,2 @@
-# git_education1
-GIT 수업자료
+하이요
+
